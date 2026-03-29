@@ -23,7 +23,7 @@ Os trabalhos presentes foram desenvolvidos sob a supervisão e orientação da p
 Para garantir a escalabilidade e a limpeza técnica, este repositório segue a estrutura:
 
 1. **Nomenclatura Semântica:** Pastas separadas por atividade e tema.
-   * *Exemplo:* `PM_ATV1_LAYOUT_BASICO`
+   * *Exemplo:* `PM_ATV1_1Bim`
 2. **Documentação de Entrega:** Cada pasta contém o código-fonte e um arquivo `README.md` específico com:
    * Objetivo do aplicativo;
    * Data de entrega;
